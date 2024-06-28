@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "react-native-toast",
+        "License": "MIT License",
+        "License File": "https://github.com/remobile/react-native-toast/blob/master/LICENSE",
+        "Version Number": "1.0.7",
+        "Owner" : "xiafeng@huawei.com",
+        "Upstream URL": "https://github.com/remobile/react-native-toast",
+        "Description": "A android like toast for react-native support for HarmonyOS"
+    }
+]

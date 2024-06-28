@@ -1,0 +1,13 @@
+{
+  "types": "",
+  "devDependencies": {
+  },
+  "name": "@react-native-oh-tpl/react-native-toast",
+  "version": "1.0.7-0.0.1",
+  "description": "Please describe the basic information.",
+  "main": "index.ets",
+  "license": "MIT",
+  "dependencies": {
+    "@rnoh/react-native-openharmony": "file:../react_native_openharmony"
+  }
+}
