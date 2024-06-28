@@ -1,0 +1,39 @@
+{
+    "name": "@react-native-oh-tpl/react-native-toast",
+    "version": "1.0.7-0.0.1",
+    "description": "A android like toast for react-native support for HarmonyOS",
+    "main": "./src/index.js",
+    "license": "MIT",
+    "keywords": [
+        "react-native",
+        "react-component",
+        "toast",
+        "position",
+        "remobile",
+        "mobile"
+    ],
+    "file": [
+        "harmony",
+        "src"
+    ],
+    "homepage": "https://github.com/remobile/react-native-toast",
+    "bugs": {
+        "url": "https://github.com/remobile/react-native-toast/issues"
+    },
+    "dependencies": {
+        "prop-types": "*",
+        "react-native": "^0.74.0",
+        "react-native-toast": "1.0.7"
+    },
+    "overrides": {
+        "@react-native/codegen": "0.74.0"
+    },
+    "harmony": {
+        "alias": "react-native-toast",
+        "codegenConfig": {
+            "specPaths": [
+                "./src"
+            ]
+        }
+    }
+}
