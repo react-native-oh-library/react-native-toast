@@ -23,13 +23,13 @@
     "dependencies": {
         "prop-types": "*",
         "react-native": "^0.74.0",
-        "react-native-toast": "1.0.7"
+        "@remobile/react-native-toast": "1.0.7"
     },
     "overrides": {
         "@react-native/codegen": "0.74.0"
     },
     "harmony": {
-        "alias": "react-native-toast",
+        "alias": "@remobile/react-native-toast",
         "codegenConfig": {
             "specPaths": [
                 "./src"
