@@ -222,7 +222,7 @@ ohpm install
 
 ## 遗留问题
 
-- atkui侧的toast的hide()方法暂时没有[issue#4](https://github.com/react-native-oh-library/react-native-toast/issues/4)
+- atkui侧的toast的hide()方法暂时没有[issue#3](https://github.com/react-native-oh-library/react-native-toast/issues/3)
 
 ## 其他
 
