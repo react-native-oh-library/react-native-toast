@@ -2,7 +2,7 @@
 > 模板版本：v0.2.2
 
 <p align="center">
-  <h1 align="center"> <code>react-native-toast</code> </h1>
+  <h1 align="center"> <code>@remobile/react-native-toast</code> </h1>
 </p>
 <p align="center">
     <a href="https://github.com/remobile/react-native-toast">
@@ -48,7 +48,7 @@ yarn add @react-native-oh-tpl/react-native-toast@file:#
 ```js
 import React, {Component} from 'react';
 import {Text, View, Button} from 'react-native';
-import Toast from 'react-native-toast';
+import Toast from '@remobile/react-native-toast';
 
 function ToastMasterDemo() {
     return (
@@ -222,7 +222,7 @@ ohpm install
 
 ## 遗留问题
 
-- atkui侧的toast的hide()方法暂时没有[issue#3](https://github.com/react-native-oh-library/react-native-toast/issues/3)
+- arkui侧的toast的hide()方法暂时没有[issue#3](https://github.com/react-native-oh-library/react-native-toast/issues/3)
 
 ## 其他
 
