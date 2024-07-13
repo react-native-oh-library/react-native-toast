@@ -72,7 +72,7 @@ export class ToastModule extends TurboModule {
     } else if (position === "bottom") {
       addPixelsY -= 20;
     }
-    const durationValue = duration === "short" ? 2000 : 4000;
+    const durationValue = duration === "short" ? 2000 : 5000;
     const promptAction = new PromptAction();
     promptAction.showToast({
       message: message,
