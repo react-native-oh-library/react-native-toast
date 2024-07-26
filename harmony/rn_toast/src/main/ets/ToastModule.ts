@@ -63,7 +63,7 @@ export class ToastModule extends TurboModule {
         addPixelsY = options['addPixelsY'];
       }
     }
-    let alignPost = Alignment.BottomEnd;
+    let alignPost = Alignment.Bottom;
     if (position === "top") {
       alignPost = Alignment.Top;
       addPixelsY += 20;
