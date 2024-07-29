@@ -1,6 +1,6 @@
 {
     "name": "@react-native-oh-tpl/react-native-toast",
-    "version": "1.0.7-0.0.2",
+    "version": "1.0.7-0.0.3",
     "description": "A android like toast for react-native support for HarmonyOS",
     "main": "index.js",
     "license": "MIT",
